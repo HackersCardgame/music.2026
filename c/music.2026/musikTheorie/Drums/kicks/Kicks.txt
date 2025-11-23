@@ -1,0 +1,97 @@
+Kicks/
+   Clean/
+   Punchy/
+   Subby/
+   Warm/
+   Distorted/
+   Acoustic/
+   Hardstyle/
+       Punch/
+       Tail/
+       ReverseBass/
+
+
+1. Clean / Digital / Tight
+
+sehr klarer Attack
+
+kaum Noise
+
+kurzer bis mittlerer Decay
+
+präzise, modern, sauber
+Genres: House, EDM, Tech-House, Techno
+
+2. Punchy / Transient-fokussiert
+
+starker Klick / Attack
+
+sehr definierter Transient
+
+mittlerer Body
+Genres: Tech-House, Minimal, EDM, Slap House
+
+3. Subby / Deep
+
+viel Low-End / Subbass
+
+wenig Attack
+
+weicher, runder Klang
+Genres: Trap, Dubstep, Deep Techno, UK Bass
+
+4. Warm / Analog / Saturated
+
+leichte bis mittlere Sättigung
+
+runder Klang, weniger Transient
+
+analoger Charakter (Tape / Vintage)
+Genres: House, Lo-Fi, Organic House, Indie
+
+5. Distorted / Hard / Industrial
+
+starke Sättigung, Noise, Obertöne
+
+aggressiv
+
+lange bis mittlere Tail
+Genres: Industrial Techno, Schranz, Hard Techno, EBM
+
+6. Acoustic / Real / Natural
+
+mikrofonierte Kicks
+
+natürliche Dynamik / Raumanteil
+Genres: Rock, Pop, Funk, Organic, Cinematic
+
+7. Hardstyle / Extreme Tail / Reverse Bass
+
+Hardstyle braucht eine eigene Kategorie — sehr charakteristisch:
+
+7A. Hardstyle Punch Kicks
+
+sehr aggressive Transients
+
+viel Distortion
+
+sehr viel Midrange
+
+kurzer bis mittlerer Sub
+→ für den „Punch“ im Drop
+
+7B. Hardstyle Tail Kicks
+
+lange, verzerrte Tail
+
+oft tonal / pitched
+
+stark komprimiert
+→ charakteristischer „donnernder“ Sound
+
+7C. Reverse Bass Kicks
+
+Rückwärts-Attack (reverse)
+
+voller, rollender Bass
+→ klassischer Hardstyle / Early Hardstyle Sound

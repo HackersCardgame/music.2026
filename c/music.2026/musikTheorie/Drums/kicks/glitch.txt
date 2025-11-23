@@ -1,0 +1,63 @@
+✅ Darstellungsmodell A — Glitch / Experimental Sounds nach Klangcharakter / Timbre
+1. Bitcrushed / Lo-Fi
+
+stark digitalisiert, 8‑bit / 12‑bit / Downsampled
+
+Artefakte hörbar, crunchy
+
+oft kurze Hits oder Loops
+Genres: Glitch-Hop, IDM, Experimental, Lo-Fi
+
+2. Granular / Stutter / Slice
+
+granulare Texturen, gesliced / chopped
+
+rhythmische Zersplitterungen
+
+Loops oder One-Shots
+Genres: IDM, Glitch, Experimental, Electronica
+
+3. Reverse / Backwards
+
+rückwärts abgespielt
+
+Attack-Transiente invertiert
+
+oft dramatisch oder ambient
+Genres: IDM, Cinematic, Glitch, Pop-Design
+
+4. Filtered / Modulated
+
+stark gefiltert (LP / HP / Bandpass)
+
+moduliert mit LFO, Envelope oder Automationen
+
+Closed oder Open Charakter bei Perc‑ähnlichen Glitches
+Genres: Techno, Experimental, Glitch, Electronica
+
+5. Noise / Static / Crunch
+
+Rauschen, statische Artefakte, digitale Spritzer
+
+oft kurze Hits oder Layer für Transienten
+Genres: IDM, Industrial, Glitch, Experimental
+
+6. Tonal / Pitched
+
+Glitch-Sound mit Tonhöhe / Melodisch
+
+oft gestretcht oder transponiert
+
+kann Harmonie oder Bassline ergänzen
+Genres: IDM, Electronica, Glitch, Sounddesign
+
+7. Layered / Complex
+
+Kombination mehrerer Glitches
+
+z. B. Bitcrush + Granular + Filter
+
+komplexe rhythmische Texturen
+Genres: Experimental, IDM, Glitch, Cinematic
+
+🏷️ Bonus: Saubere Ordnerstruktur für Glitch / Experimental

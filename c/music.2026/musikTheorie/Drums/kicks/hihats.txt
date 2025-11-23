@@ -1,0 +1,72 @@
+✅ Darstellungsmodell A — Hi-Hats nach Klangcharakter / Timbre
+1. Clean / Digital / Tight
+
+klarer, präziser Attack
+
+sehr kurzer Sustain bei Closed
+
+offene Hats klar, ohne viel Noise
+Genres: EDM, Tech-House, Pop, Minimal
+
+Unterteilung:
+
+Closed → kurzer, knackiger Klick
+
+Open → sauberer, definierter Ring, nicht zu lang
+
+2. Crisp / Shimmer / Bright
+
+sehr glänzend, metallisch
+
+kurzer bis mittlerer Decay
+
+oft Layer aus Overtones / FX
+Genres: House, Electro, EDM, Funk, Trap
+
+Unterteilung:
+
+Closed → knisternd, leicht „sizzlig“
+
+Open → länger, metallisch, airy
+
+3. Dark / Subby / Fat
+
+tiefer, runder Klang
+
+Closed → muffig, warm
+
+Open → volle, dunkle Länge
+Genres: Hip-Hop, Trap, Deep House, DnB, Bass Music
+
+4. Distorted / Saturated / Aggressive
+
+Obertöne übersteuert oder stark gesättigt
+
+oft leicht verzerrt oder geclippt
+
+Closed → punchy, aggressiv
+
+Open → fauchend, noisy
+Genres: Hard Techno, Industrial, Dubstep, Hardcore
+
+5. Acoustic / Real / Natural
+
+echte Hi-Hats aufgenommen mit Mikrofon
+
+variabler Attack, Raumanteil hörbar
+
+Closed → realistisch, perkussiv
+
+Open → natural decay, airy
+Genres: Rock, Pop, Funk, Jazz, Indie
+
+6. Gated / FX / Experimental
+
+spezielle Effekte: gated, reverse, glitch
+
+Closed → kurz, oft getriggert
+
+Open → lang, moduliert, oft Filter/FX
+Genres: Experimental, Synthwave, Pop, Glitch, EDM
+
+🏷️ Bonus: Saubere Ordnerstruktur für Hi-Hats

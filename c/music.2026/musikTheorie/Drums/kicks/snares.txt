@@ -1,0 +1,87 @@
+✅ Darstellungsmodell A — Snares nach Klangcharakter / Timbre
+1. Clean / Digital / Tight
+
+sehr sauber
+
+kurzer bis mittlerer Decay
+
+klarer Attack
+
+wenig Noise / wenig Raum
+Genres: EDM, Pop, Future Bass, Techno
+
+2. Punchy / Transient-fokussiert
+
+extrem definierter Attack
+
+knackiger Transient
+
+wenig Sustain
+Genres: Techno, Tech-House, Minimal, EDM, Club
+
+3. Snappy / Crisp (klassische 808/909/Clap-Hybrid-Snares)
+
+viel „Snap“ im Attack
+
+oft mit Layer aus Clap / Noise
+
+knallig, energetisch
+Genres: Trap, Hip-Hop, Pop, EDM
+
+4. Subby / Body-heavy
+
+viel Low-Mid und Body
+
+tiefer, voller Snare-Klang
+
+weniger Höhen
+Genres: Trap, Dubstep, Hybrid Bass, Beats
+
+5. Warm / Analog / Saturated
+
+Tape / Analog-Wärme
+
+leichte Verzerrung
+
+weicher Attack
+
+runder, musikalischer
+Genres: House, Lo-Fi, Vintage, Disco, Soulful
+
+6. Distorted / Hard / Industrial
+
+harte, aggressive Obertöne
+
+stark komprimiert
+
+saturiert oder geclippt
+Genres: Industrial Techno, Hard Techno, DnB, Hardcore
+
+7. Acoustic / Real / Natural
+
+mikrofonierte Snare-Drums
+
+natürlicher Raum
+
+dynamisch
+Genres: Rock, Pop, Funk, Indie, Jazz
+
+8. Reverb / Big / Gated Snares
+
+lange Tail
+
+oft gated reverb
+
+80s-Style oder moderne Big-Room-Snares
+Genres: 80s, Synthwave, Big Room, Pop, Dubstep
+
+9. Rimshots / Rimclicks
+
+perkussiv
+
+kurzer Attack, wenig Body
+
+Holziger Klang
+Genres: Hip-Hop, Trap, RnB, Lo-Fi, Reggaeton
+
+🏷️ Bonus: Saubere Ordnerstruktur
