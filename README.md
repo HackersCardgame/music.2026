@@ -23,3 +23,16 @@ zweite sprengfalle scheint irgendwie netzwerk ebene zu sein dass dann das selbe 
 
 psychologischer effekt wie haustürschlüssel kauen und dann noch höhnisch zu tun
 
+
+dann letzte Stufe ist immer noch eine "Blaming the user Karte", also während ich gegrillt wurde mit induzierter Epilepsie habe ich die permissions der id id.pub vergessen 
+
+aber dass mit dem Filesystem layer ist keine spinnerei
+screenshot:
+
+beweismittel/microsoft/Screenshot 2025-11-23 055932.png
+beweismittel/microsoft/Screenshot 2025-11-23 041020.png
+
+
+dann noch "das ist schreibeschützt", das ist ein intaktes fs auf einem intakten usb stick welches sauber unmountet wird mit einem hardware schreibschutz, also der versucht da zB einen Zensur-Trojaner oder etwas wie STUXNET Part 2 drauf zu schreinbe, also wie wenn ein offizier verlangt dass eine frau sich immer vergewaltigen lassen müsse
+
+
