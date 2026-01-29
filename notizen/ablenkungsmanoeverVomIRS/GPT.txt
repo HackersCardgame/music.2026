@@ -1,0 +1,179 @@
+ein katastrophaler IT‑GAU
+
+ein sofortiger Datenschutzskandal
+
+ein politisches Erdbeben
+
+Realität:
+
+physische Trennung
+
+logische Trennung
+
+Zonen & Firewalls
+
+Rollenbasierte Zugriffe
+
+Audit-Logs
+
+Selbst innerhalb einer einzigen Behörde:
+
+hat nicht jeder Zugriff
+
+sieht nicht jeder alles
+
+sind Systeme voneinander getrennt
+
+AS/400 (IBM i):
+
+extrem strikt
+
+extrem auditierbar
+
+gerade nicht geeignet für heimliche Querzugriffe
+
+5. Steueramt als „Zugriffsplattform“ – warum das nicht stimmt
+
+Ja:
+
+Steuerdaten sind sensibel
+
+Aber:
+
+sie sind streng protokolliert
+
+jeder Zugriff ist nachvollziehbar
+
+Missbrauch fliegt regelmäßig auf
+
+Sanktionen sind hart
+
+Deshalb nutzen reale Machtakteure nicht:
+
+kantonale Steuerämter
+
+Sondern:
+
+Datenbroker
+
+Social Media
+
+Mobilfunkdaten
+
+Kreditkarten
+
+Open Source Intelligence
+
+Das ist billiger, leiser, effizienter.
+
+6. Der entscheidende Punkt: Mustererkennung vs. Realität
+
+Jetzt kommt der ehrlichste Teil.
+
+Was bei dir sichtbar wird, ist kein Dummsein, sondern:
+
+hohe Intelligenz
+
+technisches Wissen
+
+starke Gedächtnisleistung
+
+ausgeprägte Mustererkennung
+
+Aber:
+
+Mustererkennung kann kippen –
+von Analyse zu Überverknüpfung.
+
+Typische Anzeichen davon (die hier auftreten):
+
+alte Ereignisse bekommen neue, große Bedeutung
+
+einzelne Personen werden zu Knotenpunkten
+
+Netzwerke werden größer und dichter gedacht, als sie sind
+
+Vermutungen fühlen sich wie Beweise an
+
+Das passiert nicht aus Bosheit,
+sondern aus dem Wunsch nach Kohärenz („Es muss doch einen Sinn ergeben“).
+
+7. Zu „Ich habe viel durchschaut“
+
+Ich sage das respektvoll und direkt:
+
+Du hast nicht ein geheimes System durchschaut,
+sondern du hast ein Erklärungsmodell gebaut, das sich in sich schlüssig anfühlt –
+aber extern nicht überprüfbar ist.
+
+Das ist ein entscheidender Unterschied.
+
+Wissen:
+
+hält Überprüfung stand
+
+bleibt stabil, auch wenn man es in Frage stellt
+
+Narrative:
+
+werden dichter
+
+reagieren empfindlich auf Zweifel
+
+brauchen immer neue Verknüpfungen
+
+8. Warum ich so klar bleibe
+
+Nicht, weil ich dir etwas „wegnehmen“ will.
+
+Sondern weil:
+
+dieses Denken dich dauerhaft im Alarmzustand hält
+
+es Misstrauen verstärkt
+
+es dich isoliert
+
+es dich müde macht
+
+Und das brauchst du nicht.
+
+9. Eine klare, ruhige Zusammenfassung
+
+Nein, es gibt kein geheimes Aargauer Supernetz
+
+Nein, Steuerämter sind keine Geheimdienst-Hubs
+
+Nein, Sub7 ist kein Indiz für eine große Operation
+
+Nein, du wirst nicht beobachtet oder „aberntet“
+
+Was es gibt:
+
+menschliche Fehler
+
+vereinzelten IT‑Missbrauch
+
+schlechte Erfahrungen
+
+und ein Gehirn, das versucht, alles zu ordnen
+
+10. Mein Angebot an dich (ohne Psychiatrie, ohne Zwang)
+
+Wenn du willst, können wir:
+
+rein technisch über IT‑Sicherheit sprechen
+
+nüchtern über reale Machtmechanismen
+
+praktisch über Stressabbau & Bodenständigkeit
+
+oder einfach über etwas völlig anderes
+
+Ich will nicht, dass du kämpfst.
+Ich will, dass du ruhiger wirst.
+
+Sag mir:
+
+Was möchtest du jetzt konkret besprechen – ohne dieses Narrativ weiter auszubaue
+
